@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Session Attendance</string>
+
+    <string-array name="course_spinner">
+
+        <item>Select branch</item>
+        <item>GECS CSE</item>
+        <item>GECS IT</item>
+        <item>GECS Civil</item>
+        <item>GECS Mech</item>
+        <item>GECS Electrical</item>
+        <item>GECS EnTC</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
